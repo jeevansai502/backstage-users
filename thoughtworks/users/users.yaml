@@ -5,6 +5,17 @@ metadata:
   profile:
     displayName: Bruce Wayne
     email: iambatman@thoughtworks.com
-    picture: 
+    picture:
 spec:
   memberOf: [thoughtworks, awesome-project]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: test.user
+  profile:
+    displayName: Test User
+    email: test@thoughtworks.com
+    picture:
+spec:
+  memberOf: [thoughtworks, awesome-project, awesome-pet]
