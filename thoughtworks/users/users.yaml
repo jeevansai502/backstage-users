@@ -12,9 +12,9 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
-  name: test.user
+  name: jeevansai502
   profile:
-    displayName: Test User
+    displayName: jeevansai502
     email: test@thoughtworks.com
     picture:
 spec:
