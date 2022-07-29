@@ -18,4 +18,4 @@ metadata:
     email: test@thoughtworks.com
     picture:
 spec:
-  memberOf: [thoughtworks, awesome-project, awesome-pet]
+  memberOf: [thoughtworks, awesome-pet]
